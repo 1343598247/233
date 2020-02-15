@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1579681466733'); /* IE9 */
+  src: url('iconfont.eot?t=1579681466733#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPYAAsAAAAACDAAAAOJAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDSIMNATYCJAMUCwwABCAFhG0HTRseBxEVnCHJvjygx1jtCivH03khpdh+s62WMGhNYEvS+xw88Hnl+8g0m1lRBcgb4WNKndoJgAYIyBC575o/IuEXoY7k7CeP/iAFyr00HSTAn2gjdKSF6z9G4H8Hh4tblsA8y3IZc9lYEwOMAwpo7E1SIL0o/yK7t6QrkKshAItI6USNWg1aYKLBnQQgBvTt3RUzo0A3RAtMBI6KkRqxBANTzpW3gMXB98VHcjNBYihwzya9avagio1drKa4pujgqZg6nQ5QxoEC0oEGMazSMAAVudIpLOvvNFUACxOJtLHdbA+72DU250Aii/zDA4FCI0E4wJHuAFQBtwYbRoYA240MBbYHn2ZhseBGAs81EizACUwEDsLYeLUkEgPpcPN2R31Ny/T2Ht+rh+jds4V0V+4wS++B1qMnrcTTp62djx+35NGjdk/SNIkmUaWDBm+b92BqWu+d8+9PSe7meeTM1LNFPpsTjpUP8GrhDkEtPRrca2FFtx274VS+1XrKyvEtVqxBrt2e1Pro0yi16c6AI7fC5cbHBS037wxTU9cFVhG5Lgl/vlvLpwAwpSh6TLixXJ6PlLX91eLzZ5apG5TqS9XiTO3alyP/neW61XKYHOpJh0siXbs6ksphsCuVtr1mXs15O3Zsq1G95rqYJcOqfK33pQpNGuzLeXEmooyRTYr/r5evs/ae5GZF+1poV5Xr0EE6kuyvuVJ28ZfnX23nXyipn1PNMTXyVKHz5S3PqQ6ZWz//1nxb//X8dXExBgBXGtUNXKzPqkkAWikBoAbKzX/1N1Qd2bxtZ6/y3zg1AC8aJZ0IZC66GybBrxFiMf9hjpbgWiuVjZWGNplMKIMMBGCQe/cmCb8r789ZfL2ZRhTQ2QECM8NUQFKBCFCYxCM0Jh0MnOSDA5PKYJGm9ngnfoahENoNSDUTgcDbXpB4chYU3m4jNOY1GAT6DA68U2DRSvjN6CQxSac3xl5wguEFdqSkqFpOYfQ36hJ6TrMD3D9ytlZoqybv/cKEPEWffNediALFFOETrYchEMxMDkepjMh8q2tV9aRqpLg48cbYC04wvMCOlJRXXk6Fz3+jLqHnhqIW5T9yttVDWzUdEF+C1KnoVs7Jd92JKFBMET6RDgNxEczVzRyOUpkBjvlWQynVVVAtL4rvuAKwwA81hBRKaGEIB5s+FPHyoqRNmWyfnN2I9WX3LH3yuFgAAAAA') format('woff2'),
+  url('iconfont.woff?t=1579681466733') format('woff'),
+  url('iconfont.ttf?t=1579681466733') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1579681466733#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+  content: "\e600";
+}
+
+.icon-person:before {
+  content: "\e638";
+}
+
+.icon-problem:before {
+  content: "\e609";
+}
+
+.icon-course:before {
+  content: "\e60d";
+}
+
